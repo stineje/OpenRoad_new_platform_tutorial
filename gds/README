@@ -1,0 +1,4 @@
+The gds folder contains GDS descriptions of the standard cells used for a platform.
+This can be taken as-is from the original platform.
+
+Refer to https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/sky130hs/gds as an example of what goes in this folder.
