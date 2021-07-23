@@ -9,4 +9,4 @@ LEF information must be provided in this format to ensure smooth operation of th
 
 Many PDKs already provide LEFs split in this manner. Should your target PDK not, simply split the LEF manually. Make sure that both resulting LEFs have a header.
 
-Refer to https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/sky130hs/lef as an example of what goes in this folder.
+Refer to the sample platform as an example of what goes in this folder.

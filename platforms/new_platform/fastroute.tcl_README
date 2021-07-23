@@ -1,4 +1,4 @@
-One should use the equivalent file from other platforms as an example.
+One should use the equivalent file from the sample platform as an example.
 The fastroute.tcl file defines the user’s routing preference on this platform.
 
 Using this default is recommended:
